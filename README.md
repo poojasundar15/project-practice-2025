@@ -1,1 +1,1 @@
-# project-practice-2025-(JAVA,DSA,AWS)
+# coding-project-practice-2025-(JAVA,DSA,AWS)
